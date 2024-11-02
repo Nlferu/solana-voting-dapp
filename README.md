@@ -1,4 +1,4 @@
-# voting-dapp
+# Solana Voting Dapp
 
 ## Getting Started
 
